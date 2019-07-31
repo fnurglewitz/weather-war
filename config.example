@@ -1,0 +1,12 @@
+{
+  srvCfg = {
+    srvPort = +3000
+  }
+  , owmCfg = {
+      owmHost = "api.openweathermap.org"
+    , owmPort = +443
+    , owmPath = "data/2.5"
+    , owmAppId = "somethingsomethingappid"
+  }
+  , locations = ["Trieste", "Pianoro", "Pesaro", "Valle di Maddaloni","Modena","Bologna", "Piacenza", "Pescara", "Bari", "L'Aquila", "Bolzano", "Torino", "Genova", "Udine", "Palermo", "Roma", "Cagliari", "Aosta", "Imperia", "Oslo", "Firenze", "Reggio Calabria", "Pisa" ]
+}
